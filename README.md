@@ -37,7 +37,7 @@ Compared the performance of multiple machine learning classifiers on a dataset i
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn][https://www.linkedin.com/in/david-shamis/])
+- 💼 LinkedIn: https://www.linkedin.com/in/david-shamis/
 - ✉️ Email: shamisdavid@gmail.com
 
 ---
