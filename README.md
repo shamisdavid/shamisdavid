@@ -23,19 +23,17 @@ Analyzed stock price behavior in relation to public sentiment using an existing 
 
 ---
 
-### 🔹 [ShamisBnB](https://github.com/shamisdavid/ShamisBnB)  
-**Airbnb-Inspired Full-Stack Web App**  
-A clone of Airbnb developed as part of the AppAcademy curriculum. Includes booking logic, user authentication, and responsive UI design.  
-**Tech:** JavaScript, Node.js, Express, Sequelize, React  
-
----
-
 ### 🔹 [PriceOfACar](https://github.com/shamisdavid/PriceOfACar)  
 **Predictive Modeling of Car Prices**  
 Explored how different features impact car prices using regression models. Cleaned and processed structured data, ran exploratory analysis, and built predictive models.  
 **Tech:** Python, pandas, scikit-learn, seaborn  
 
 ---
+
+### 🔹 [ClassifierComparison](https://github.com/shamisdavid/ClassifierComparison)  
+**Classifier Benchmarking for Coupon Acceptance**  
+Compared the performance of multiple machine learning classifiers on a dataset involving consumer coupon acceptance behavior. Focused on accuracy, interpretability, and evaluation metrics.  
+**Tech:** Python, pandas, scikit-learn  
 
 ## 📫 Let's Connect
 
