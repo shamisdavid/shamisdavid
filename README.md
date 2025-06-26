@@ -7,7 +7,7 @@ I transitioned into tech after years of hands-on work as an automotive technicia
 ---
 
 ## 💻 Technologies & Tools
-- **Languages**: Python, JavaScript, SQL
+- **Languages**: Python, JavaScript, SQL, C++
 - **Frameworks & Libraries**: React, Node.js, Express, pandas, scikit-learn, TensorFlow
 - **Databases**: PostgreSQL, SQLite
 - **Tools**: Git, GitHub, Jupyter, VS Code
