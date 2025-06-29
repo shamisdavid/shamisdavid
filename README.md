@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Shamis
+# Hi, I'm David Shamis
 
 I'm a UC Berkeley-certified Machine Learning & AI professional and a full-stack web developer trained at AppAcademy. I’m passionate about applying machine learning, NLP, and modern development tools to solve real-world problems and create meaningful user experiences.
 
