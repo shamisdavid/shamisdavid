@@ -1,6 +1,6 @@
 # Hi, I'm David Shamis
 
-I'm a UC Berkeley-certified Machine Learning & AI professional and a full-stack web developer trained at AppAcademy. I’m passionate about applying machine learning, NLP, and modern development tools to solve real-world problems and create meaningful user experiences.
+I'm a Computer Science master’s student at CU Boulder, a UC Berkeley–certified Machine Learning & AI professional, and full-stack ready. I’m passionate about applying machine learning, computer vision, and modern development tools to solve real-world problems and create meaningful user experiences.
 
 I transitioned into tech after years of hands-on work as an automotive technician which was an experience that sharpened my ability to work under pressure, think systematically, and solve complex problems. I now bring that same mindset to building and debugging intelligent systems and full-stack applications.
 
@@ -8,7 +8,7 @@ I transitioned into tech after years of hands-on work as an automotive technicia
 
 ## 💻 Technologies & Tools
 - **Languages**: Python, JavaScript, SQL, C++
-- **Frameworks & Libraries**: React, Node.js, Express, pandas, scikit-learn, TensorFlow
+- **Frameworks & Libraries**: andas, Scikit-Learn, TensorFlow, OpenCV, Maptplotlib, Hugging Face, NumPy, Seaborb, PyTorch, React, Express
 - **Databases**: PostgreSQL, SQLite
 - **Tools**: Git, GitHub, Jupyter, VS Code
 
