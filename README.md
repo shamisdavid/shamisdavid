@@ -8,7 +8,7 @@ I transitioned into tech after years of hands-on work as an automotive technicia
 
 ## 💻 Technologies & Tools
 - **Languages**: Python, JavaScript, SQL, C++
-- **Frameworks & Libraries**: andas, Scikit-Learn, TensorFlow, OpenCV, Maptplotlib, Hugging Face, NumPy, Seaborb, PyTorch, React, Express
+- **Frameworks & Libraries**: Pandas, Scikit-Learn, TensorFlow, OpenCV, Maptplotlib, Hugging Face, NumPy, Seaborb, PyTorch, React, Express
 - **Databases**: PostgreSQL, SQLite
 - **Tools**: Git, GitHub, Jupyter, VS Code
 
