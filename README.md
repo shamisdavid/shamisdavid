@@ -16,12 +16,6 @@ I transitioned into tech after years of hands-on work as an automotive technicia
 
 ## 📂 Featured Projects
 
-### 🔹 [AI_ML_Berkeley_Capstone](https://github.com/shamisdavid/AI_ML_Berkeley_Capstone)  
-**Stock Sentiment Analysis Using Twitter Data**  
-Analyzed stock price behavior in relation to public sentiment using an existing dataset of tweets and market data. Built an NLP pipeline, engineered features, and trained ML models to uncover predictive relationships.  
-**Tech:** Python, pandas, scikit-learn, Matplotlib  
-
----
 
 ### 🔹 [PriceOfACar](https://github.com/shamisdavid/PriceOfACar)  
 **Predictive Modeling of Car Prices**  
